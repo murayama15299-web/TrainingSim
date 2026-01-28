@@ -27,7 +27,7 @@ Unityで育成システムの基礎を理解するために制作したプロトタイプです。
 - TextMeshPro
 
 ## プレイ動画（30秒）
-https://drive.google.com/file/d/1TmY3xaFfCOB0jD6nrqbLahhSTY9nilar/view?usp=drive_link
+https://youtu.be/D04mU69wXGA
 
 ## 補足
 ※ 日本語フォントは容量制限のためリポジトリには含めていません。  
